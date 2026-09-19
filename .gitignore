@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Module Federation generated files
+.__mf__temp/
+.mf/
